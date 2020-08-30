@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1043298101519",
+    "firebase_url": "https://zomentum-test.firebaseio.com",
+    "project_id": "zomentum-test",
+    "storage_bucket": "zomentum-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043298101519:android:7a9099297c2eabf574f67a",
+        "android_client_info": {
+          "package_name": "com.example.zomentum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043298101519-55r3cu69uk9jfeie9409ul27ptn3d1ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFFKbuy2vPEgaaQpmoB1vtXelmuW5osqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043298101519-55r3cu69uk9jfeie9409ul27ptn3d1ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

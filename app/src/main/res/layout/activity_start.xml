@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/darker_gray"
+    tools:context=".startActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Welcome to Prakhar's Chat App"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:id="@+id/pk"
+        android:textColor="@android:color/holo_green_light"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/pk"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="30dp"
+        android:text="LOGIN"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:id="@+id/bt3"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bt3"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="30dp"
+        android:text="REGISTER"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:id="@+id/bt4"/>
+
+
+</RelativeLayout>
